@@ -1,0 +1,89 @@
+body {
+    background-color: chocolate;
+    background: #FFD845 !important;
+}
+
+.pokimon{
+    max-width:1921px !important;
+    padding: 0 !important;
+    justify-content: space-between;
+}
+.btm{
+    display: none;
+}
+
+
+.js__forms{
+    max-width: 1125px;
+
+}
+
+
+.js__forms {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.pokemons-search{
+    margin-top: 7px;
+    margin-left: -70px;
+}
+
+   
+.logo{
+    margin: 0;
+    margin-right: 304px;
+    margin-left: 394px;
+}
+    
+
+
+.types-select {
+    border-radius: 15px !important;
+    width: 260px !important;
+}
+
+
+
+
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    margin-right: 30px;
+    background: #fff;
+    margin-top: 30px;
+    width: 307px;
+  
+}
+
+
+
+img{
+    margin-top: 35px;
+    margin-bottom: 68px;
+    margin-right: 75px;
+    margin-left: 75px;
+  
+  
+}
+
+.pocemon__inform{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 37px;
+}
+
+.inform__height{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
