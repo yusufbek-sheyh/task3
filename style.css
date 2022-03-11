@@ -4,12 +4,9 @@ body {
 }
 
 .pokimon{
-    max-width:1921px !important;
-    padding: 0 !important;
+    max-width:1920px !important;
+    padding: 169px !important;
     justify-content: space-between;
-}
-.btm{
-    display: none;
 }
 
 
@@ -19,35 +16,19 @@ body {
 }
 
 
-.js__forms {
-    margin-top: 70px;
-    margin-bottom: 70px;
-}
-
-.pokemons-search{
-    margin-top: 7px;
-    margin-left: -70px;
-}
-
    
 .logo{
     margin: 0;
     margin-right: 304px;
-    margin-left: 394px;
+    margin-left: 200px;
 }
     
-
-
-.types-select {
-    border-radius: 15px !important;
-    width: 260px !important;
-}
-
 
 
 
 
 .wrapper{
+    padding-right: 50px;
     display: flex;
     flex-wrap: wrap;
     margin: 0;
